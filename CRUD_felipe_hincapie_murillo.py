@@ -154,7 +154,7 @@ def price_of_all_inventary():#it was the more difficult part to me, lambda sucks
         print("the system is empty, cannot do the action")
         return
     total_value = sum(map(lambda item: item["item_price"] * item["item_amount"], item_inventory))
-    print(f"💵💵💵 The total value of all inventory is {total_value:.2f} 💵💵💵")#A explicit feature asked for the test
+    print(f"💵💵💵 The total value of all inventory is {total_value:,.2f} 💵💵💵")#A explicit feature asked for the test
     return
 
         
