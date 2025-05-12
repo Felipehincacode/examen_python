@@ -17,3 +17,20 @@ It is designed with an elegant and user-friendly interface that is self-explanat
       -Type 3 to edit an item's price (you can't add a negative value).<br>
       -Type 4 to delete entire items.<br>
       -Type 5 to calculate the price of your entire inventory (to see if you're rich, haha).<br>  </li>
+
+
+
+# Usage examples, application screenshots
+
+<img src="files/ss1.png" />
+
+<img src="files/ss2.png" />
+
+<img src="files/ss3.png" />
+
+<img src="files/ss4.png" />
+
+<img src="files/ss5.png" />
+
+<img src="files/ss6.png" />
+
